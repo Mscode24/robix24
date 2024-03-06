@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robix24/static/css/main.8347f46b.css",
+    "main.js": "/robix24/static/js/main.3a96163c.js",
+    "static/media/smackdown.jpg": "/robix24/static/media/smackdown.d8e31e3e3c073c99e2db.jpg",
+    "static/media/armw.png": "/robix24/static/media/armw.1c77949a9cb0764eb2a6.png",
+    "static/media/hacathon.jpeg": "/robix24/static/media/hacathon.dfb2c17526a9f6b3d5c1.jpeg",
+    "static/media/about.svg": "/robix24/static/media/about.a4eff2220dd963e3839ab8baf346ba59.svg",
+    "static/media/event.svg": "/robix24/static/media/event.93b71ba480a2e1607332f98ffe364af5.svg",
+    "static/media/valorant.jpeg": "/robix24/static/media/valorant.0d58fbfa44d239c1c83d.jpeg",
+    "static/media/Hero.svg": "/robix24/static/media/Hero.899cad8d98aba1feee10.svg",
+    "static/media/Quantum.otf": "/robix24/static/media/Quantum.ab22dee95cbffcc89a87.otf",
+    "static/media/backGround.svg": "/robix24/static/media/backGround.a81af7b043965c800371.svg",
+    "index.html": "/robix24/index.html",
+    "main.8347f46b.css.map": "/robix24/static/css/main.8347f46b.css.map",
+    "main.3a96163c.js.map": "/robix24/static/js/main.3a96163c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8347f46b.css",
+    "static/js/main.3a96163c.js"
+  ]
+}
